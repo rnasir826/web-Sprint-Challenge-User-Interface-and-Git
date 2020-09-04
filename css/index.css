@@ -359,21 +359,26 @@ footer nav a {
 
 #top {
     display: flex;
-    margin-left: 14%;
+    margin-left: 18%;
 }
 
 #top div {
     width: 50%;
     align-items: center;
+    text-align: left;
+    margin-top: 2%;
 }
 
 #bottom {
     display: flex;
+    margin-left: 18%;
 }
 
 #bottom div {
-    widows: 50%;
+    width: 50%;
     align-items: center;
+    text-align: left;
+    margin-top: 2%;
 }
 
 .lastsec {
