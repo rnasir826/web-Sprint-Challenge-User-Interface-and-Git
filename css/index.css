@@ -349,3 +349,38 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/*css for the about page*/
+
+.about-page {
+    margin: 4% 18%;
+}
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info img {
+    width: 12%;
+    margin-left: 18%;
+}
+
+.info p {}
+
+.moreinfo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.moreinfo img {
+    width: 12%;
+    margin-left: 18%;
+}
+
+.moreinfo p {}
+
+.lastsec {
+    margin: 4% 18%;
+}
