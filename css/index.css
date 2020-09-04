@@ -357,29 +357,24 @@ footer nav a {
     margin: 4% 18%;
 }
 
-.info {
+#top {
     display: flex;
-    justify-content: space-evenly;
+    margin-left: 14%;
 }
 
-.info img {
-    width: 12%;
-    margin-left: 18%;
+#top div {
+    width: 50%;
+    align-items: center;
 }
 
-.info p {}
-
-.moreinfo {
+#bottom {
     display: flex;
-    justify-content: space-evenly;
 }
 
-.moreinfo img {
-    width: 12%;
-    margin-left: 18%;
+#bottom div {
+    widows: 50%;
+    align-items: center;
 }
-
-.moreinfo p {}
 
 .lastsec {
     margin: 4% 18%;
